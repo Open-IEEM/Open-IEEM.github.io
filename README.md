@@ -1,4 +1,14 @@
-<img src="media/ieem-logo.png" style="height:50px" class="center"/>
+
+<style type="text/css">
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+
+<img src="media/ieem-logo.png" style="height:100px" class="center"/>
 
 # **Inter-American Development Bank**
 
