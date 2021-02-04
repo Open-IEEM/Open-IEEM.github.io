@@ -1,12 +1,3 @@
-<style type="text/css">
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
-
 <img src="media/ieem-logo.png" class="center"/>
 
 # **Inter-American Development Bank**
