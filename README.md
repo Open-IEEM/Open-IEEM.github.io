@@ -7,7 +7,7 @@
 **The Integrated Economic-Environmental Modeling Platform + Ecosystem Services Modeling (IEEM+ESM) Data Packets**
 
 
-|  ISO  |   **Country**       |                **Link to Data Repositories**                 | 
+|  ISO  |   **Country**       |                **Link to Data Repository**                   | 
 | :---: | :---                |                            :---:                             |
 |  ARG  | Argentina           | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-ARG/)  |
 |  BLZ  | Belize              | [ **Download** ](https://github.com/Open-IEEM/IEEM-ES-BLZ/)  |
