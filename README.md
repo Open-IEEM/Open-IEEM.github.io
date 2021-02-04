@@ -6,7 +6,7 @@
 
 **The Integrated Economic-Environmental Modeling Platform + Ecosystem Services Modeling (IEEM+ESM) Data Packets**
 
-Click on the repository link below and scroll down to the README section to download all Ecosystem Service Modeling datasets.
+Click on the repository link below and scroll down to the README section to download all Ecosystem Service Modeling datasets for the country in question.
 
 
 |  ISO  |   **Country**       |                **Link to Data Repository**                   | 
