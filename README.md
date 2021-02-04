@@ -8,7 +8,7 @@
 }
 </style>
 
-<img src="media/ieem-logo.png" style="height:100px" class="center"/>
+<img src="media/ieem-logo.png" style="height:100px,width:333px" class="center"/>
 
 # **Inter-American Development Bank**
 
