@@ -1,4 +1,4 @@
-<img src="media/ieem-logo.png" style="height:100px,width:333px"/>
+<img src="media/ieem-logo.png"/>
 
 # **Inter-American Development Bank**
 
